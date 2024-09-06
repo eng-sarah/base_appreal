@@ -7,7 +7,7 @@ function App() {
 				<div className="container mt-[28px] ml-[20px] lg:mt-[61px] lg:ml-[62px] xl:ml-[161px]  w-[133px]">
 					<div className="mb-[25px] lg:mb-[80px]  ">
 						<img
-							src="public/assets/images/logo.svg"
+							src="assets/images/logo.svg"
 							alt="logo"
 							className="object-contain  h-auto "
 						/>
@@ -15,7 +15,7 @@ function App() {
 				</div>
 				<div className="container mt-[25px]  lg:hidden  ">
 					<img
-						src="public/assets/images/hero-mobile.jpg"
+						src="assets/images/hero-mobile.jpg"
 						alt="hero"
 						className="max-w-full w-screen"
 					/>
@@ -47,7 +47,7 @@ function App() {
 							/>
 							<span className=" absolute right-[120px] hidden top-[12px] peer-[&:not(:placeholder-shown):not(:focus):invalid]:block">
 								<img
-									src="public/assets/images/icon-error.svg"
+									src="assets/images/icon-error.svg"
 									alt="submit"
 									className="m-auto"
 								/>
@@ -58,7 +58,7 @@ function App() {
 								className="bg-gradient-to-r from-[#eebabe] to-[#ee9b97]  rounded-[25px] w-[100px] h-[50px] absolute right-[0px] "
 							>
 								<img
-									src="public/assets/images/icon-arrow.svg"
+									src="assets/images/icon-arrow.svg"
 									alt="submit"
 									className="m-auto"
 								/>
@@ -73,7 +73,7 @@ function App() {
 			<div className="relative">
 				<div className=" h-screen absolute  top-[55px] lg:top-0 right-0 hidden lg:block">
 					<img
-						src="public/assets/images/hero-desktop.jpg"
+						src="assets/images/hero-desktop.jpg"
 						alt="hero"
 						className="max-w-full object xl:max-h-full"
 					/>
