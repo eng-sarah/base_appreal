@@ -37,7 +37,7 @@ function App() {
 					</div>
 					<div className="container ">
 						<form
-							className="flex flex-wrap relative mt-[40px] mx-auto md:mr-[0] md:ml-[0] lg:w-[420px] mb-[10px]"
+							className="flex flex-wrap relative mt-[40px] mr-[50px] ml-[50px] md:mr-[10px] md:ml-[10px] lg:w-[420px] mb-[10px]"
 							noValidate
 						>
 							<input
