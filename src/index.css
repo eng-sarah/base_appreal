@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.raleway-header {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+}
+.open-sans-body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+body{
+			
+      background: url('../src/assets/images/bg-pattern-desktop.svg');
+      background-repeat: no-repeat;
+      background-size: auto;
+      background-size: cover;
+      background-position: center;
+      height: 100%;
+}
