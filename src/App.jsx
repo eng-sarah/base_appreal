@@ -20,7 +20,10 @@ function App() {
 						className="max-w-full w-screen"
 					/>
 				</div>
-				<div className="container mt-[28px] lg:mt-[50px] lg:ml-[62px] xl:ml-[161px]">
+				<div
+					className="container mt-[28px] lg:mt-[50px] lg:ml-[62px] xl:ml-[161px]"
+					role="main"
+				>
 					<div className="lg:justify-center text-center lg:text-start  lg:w-[420px] ">
 						<h1 className="max-w-full tracking-[23px] font-semibold text-4xl lg:text-7xl text-[#433b3b] mb-[20px]  raleway-header">
 							<span className="text-[#daa9af] tracking-[15px] font-[400] ">
